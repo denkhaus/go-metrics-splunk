@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/sirupsen/logrus"
 	"github.com/rcrowley/go-metrics"
 	"github.com/sirupsen/logrus"
 )
